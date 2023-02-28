@@ -184,6 +184,9 @@
          <scope>test</scope>
       </dependency>
 
+
+
+
       <!-- OSGi test -->
       <dependency>
          <groupId>javax.inject</groupId>
